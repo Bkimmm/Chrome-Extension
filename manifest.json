@@ -6,7 +6,7 @@
   "description": "Adds images of cats to brighten to your day",
 
   "icons": {
-    "48": "cat-icon.png"
+    "48": "img/cat-icon.png"
   },
 
   "content_scripts": [

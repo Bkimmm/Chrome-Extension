@@ -64,7 +64,7 @@ fetch('https://cat-fact.herokuapp.com/facts/random?animal_type=cat&amount=2')
       facts.innerHTML = data[0].text;
     }
     // console.log(data.text[0], data.text[1]);
-    document.querySelector('.Pb9hCb').src = 'cat-icon-2.png';
+    document.querySelector('.Pb9hCb').src = 'img/cat-icon-2.png';
   })
   .catch((error) => console.log(error));
 
